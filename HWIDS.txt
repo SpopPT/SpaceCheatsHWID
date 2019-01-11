@@ -1,4 +1,5 @@
 // Exemplo de como deve ficar sua HwID List
 // SpopPT
+S-1-5-21-1285665646-2590352714-2872989238-1000
 // SkyLine
 // Ice1337
